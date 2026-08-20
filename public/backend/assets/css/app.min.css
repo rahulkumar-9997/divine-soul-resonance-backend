@@ -3307,7 +3307,7 @@
     text-align: center;
     -webkit-transition: all 0.1s ease-out;
     transition: all 0.1s ease-out;
-    background-color: #ffffff;
+    /* background-color: #ffffff; */
 }
 .navbar-brand-box .logo-lg img{
     height: 55px;
